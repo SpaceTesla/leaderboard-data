@@ -1,0 +1,57 @@
+{
+  "last_updated": "2025-04-04T07:27:17.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#410",
+      "time": "2025-04-04T07:27:17.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/410#issuecomment-2777784180",
+      "text": "> Regardless of whether we want this change or not, I would expect an update in the readme which explains how to turn on and off development mode. And an update to the env example file.\r\n\r\n![image](https://github.com/user-attachments/assets/7266cece-4c65-4997-8cd0-5a788c5ced2c)\r\nAs you can see here the development mode for the debug options is not taken from .env rather from '$app/environment', so whenever you run it locally automatically the development mode is turned on .\r\nIn the same way debug options are hid in the other places :\r\nFor example:\r\nIn knowledge panels :\r\n![image](https://github.com/user-attachments/assets/33850ab7-68db-4981-82a1-b7e9812821e3)\r\n\r\n"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/410",
+      "title": "fix: Hide debug option for questions in product page(Prodution) ",
+      "stale_for": 0,
+      "labels": [
+        "🤖 Robotoff"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/408",
+      "title": "feat(product-page): add sticky \"Go up\" button",
+      "stale_for": 3,
+      "labels": [
+        "Product page"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/68",
+      "title": "feat: Nutripatrol web components",
+      "stale_for": 0,
+      "labels": [
+        "🛡️ Nutri-Patrol"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/334",
+      "title": "feat: Add support for Price editing",
+      "stale_for": 0,
+      "labels": [
+        "💸 Prices",
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/325",
+      "title": "feat: Add button to each product to open Hunger Games ",
+      "stale_for": 0,
+      "labels": [
+        "Product page",
+        "Road to Hunger Games"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

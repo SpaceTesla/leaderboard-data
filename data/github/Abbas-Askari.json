@@ -16,37 +16,6 @@
       "text": "@VaiTon new version of npm package need to be published after the https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/599 got merged. Then I can update `package.json` and the PR will be ready."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/280",
-      "title": "feat: add Robotoff questions",
-      "stale_for": 1,
-      "labels": [
-        "🤖 Robotoff"
-      ]
-    },
-    {
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/243",
-      "title": "feat: add photo management UI",
-      "stale_for": 0,
-      "labels": [
-        "✏️ Editing",
-        "🖼️ Images"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/742",
-      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/208"
-    },
-    {
-      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/164",
-      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/165"
-    },
-    {
-      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/151",
-      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/152"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

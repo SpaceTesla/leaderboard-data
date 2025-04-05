@@ -14,5 +14,32 @@
     },
     "participants": [],
     "repository": "api-documentation"
+  },
+  {
+    "source": "github",
+    "title": "Footer is becoming too cluttered. How to keep clean?",
+    "text": "![image](https://github.com/user-attachments/assets/abbe3743-5426-4e4c-af34-482e61a5b03c)\n\n\nWe have a bunch of redundant information in the current footer. I would aim to keep it as clean as possible. What do we really need there? Thoughts?\n\nDetails like x icon and \" ..(en)\" breaks the consistency as well. \n\nBadges will be added soon as well:\n\nhttps://github.com/openfoodfacts/openfoodfacts-explorer/pull/357",
+    "author": "github-throwaway",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/362",
+    "isAnswered": false,
+    "time": "2025-03-27T06:29:27Z",
+    "updateTime": "2025-04-04T22:26:35Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "swastikCommits",
+      "swastikCommits",
+      "Bhavishya2601",
+      "Bhavishya2601",
+      "github-throwaway",
+      "github-throwaway",
+      "Bhavishya2601",
+      "heymitali",
+      "swastikCommits",
+      "Bhavishya2601"
+    ],
+    "repository": "openfoodfacts-explorer"
   }
 ]
