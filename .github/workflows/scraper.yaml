@@ -9,7 +9,7 @@ on:
 
 jobs:
   run-scraper:
-    uses: ohcnetwork/leaderboard/.github/workflows/scraper.yaml@main
+    uses: SpaceTesla/leaderboard/.github/workflows/scraper.yaml@main
     if: github.ref == 'refs/heads/main'
     permissions:
       issues: read
@@ -17,6 +17,4 @@ jobs:
       contents: write
       repository-projects: read
     secrets: inherit
-    with:
-      slack-eod-channel: ${{ vars.SLACK_EOD_CHANNEL }}
-      projects-board-id: PVT_kwDOA7JD8804yA
+
