@@ -1,0 +1,23 @@
+{
+  "last_updated": "2025-04-04T05:54:15.000Z",
+  "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-04T05:54:15.000Z",
+      "title": "openfoodfacts/openfoodfacts-explorer#387",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/387#pullrequestreview-2741845305",
+      "text": "fix: type errors fixed in a product which fails to fetch"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/318",
+      "title": "fix: children component not rendering as we use browser navigation(back). (bug #317)",
+      "stale_for": 0,
+      "labels": [
+        "Barcode scanning"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

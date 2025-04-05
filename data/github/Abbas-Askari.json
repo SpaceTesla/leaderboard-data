@@ -1,0 +1,52 @@
+{
+  "last_updated": "2025-04-03T15:06:55.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#280",
+      "time": "2025-04-03T15:06:55.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/280#issuecomment-2776103787",
+      "text": "BTW, sorry for such long delay, Had exams and EID, finally am free."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#280",
+      "time": "2025-04-03T15:06:18.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/280#issuecomment-2776102057",
+      "text": "@VaiTon new version of npm package need to be published after the https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/599 got merged. Then I can update `package.json` and the PR will be ready."
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/280",
+      "title": "feat: add Robotoff questions",
+      "stale_for": 1,
+      "labels": [
+        "🤖 Robotoff"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/243",
+      "title": "feat: add photo management UI",
+      "stale_for": 0,
+      "labels": [
+        "✏️ Editing",
+        "🖼️ Images"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/742",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/208"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/164",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/165"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/151",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/152"
+    }
+  ]
+}

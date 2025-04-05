@@ -1,0 +1,65 @@
+{
+  "last_updated": "2025-04-03T16:38:40.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11738",
+      "time": "2025-04-03T16:38:40.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11738",
+      "text": "fix: templates: string-quoting audit / fixups"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11738",
+      "title": "fix: templates: string-quoting audit / fixups",
+      "stale_for": 0,
+      "labels": [
+        "Product Page",
+        "product history",
+        "🧪 tests",
+        "📖 Knowledge Panels",
+        "💥 Merge Conflicts",
+        "Template::Toolkit"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11641",
+      "title": "feat: add galactose as a user-editable nutriment",
+      "stale_for": 2,
+      "labels": [
+        "🧽 Data quality",
+        "🧪 tests",
+        "Food.pm"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11109",
+      "title": "build(deps): use jquery v2.2.4 to unblock jquery-ui v1.14.1 upgrade",
+      "stale_for": 2,
+      "labels": [
+        "JavaScript",
+        "dependencies",
+        "🏷️ Folksonomy Project"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11721",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11722"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11646",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11724"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7315",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7311"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7315",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7975"
+    }
+  ]
+}

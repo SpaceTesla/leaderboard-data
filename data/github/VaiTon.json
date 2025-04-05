@@ -1,0 +1,95 @@
+{
+  "last_updated": "2025-04-03T23:54:08.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#397",
+      "time": "2025-04-03T23:54:08.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/397#issuecomment-2777232926",
+      "text": "Thank you! :rocket: "
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-explorer#382",
+      "time": "2025-04-03T23:54:01.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/382",
+      "text": "Add a share button on the product page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-03T23:53:51.000Z",
+      "title": "openfoodfacts/openfoodfacts-explorer#397",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/397#pullrequestreview-2741452506",
+      "text": "feat: add share button on product page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#610",
+      "time": "2025-04-03T23:47:51.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/610",
+      "text": "SHOULD BE REBASED (commits by VaiTon)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#609",
+      "time": "2025-04-03T23:43:10.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/609",
+      "text": "Bump version to 2.0.0-alpha.3"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#280",
+      "time": "2025-04-03T23:36:31.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/280#issuecomment-2777214895",
+      "text": "> BTW, sorry for such a long delay, Had exams and EID, finally am free.\r\n\r\nDon't worry!"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#407",
+      "time": "2025-04-03T23:36:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407#issuecomment-2777214453",
+      "text": "> Added flex which was the missing class\r\n\r\nMissing for what?"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#407",
+      "time": "2025-04-03T23:35:36.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407#issuecomment-2777213964",
+      "text": "> Added min-w-[100px] ensures to provide the container a minimum width, which prevents the tags from compressing\r\n\r\nPlease do not use absolute values unless necessary. Prefer tailwind `-md`, `-lg`, ..."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#414",
+      "time": "2025-04-03T23:33:56.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414#issuecomment-2777212248",
+      "text": "> I think @teolemon wanted the default placeholder to be shown though.\r\n\r\nRight, so the logic should be:\r\n- no image: placeholder \r\n- image: ImageComponent with rotation, ecc...\r\n\r\ncc @akashshetty1997 "
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#421",
+      "time": "2025-04-03T23:32:56.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/421#issuecomment-2777211242",
+      "text": "@akashshetty1997 we already have support for changing the API base URL via `.env` file. Is there something in particular that you aren't able to change with that file?"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/610",
+      "title": "SHOULD BE REBASED (commits by VaiTon)",
+      "stale_for": 1,
+      "labels": [
+        "GitHub Actions"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8449",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8450"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/3838",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/3839"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "last_updated": "2025-04-04T04:31:58.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T04:31:58.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425#issuecomment-2777531453",
+      "text": "Alright "
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T04:31:58.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425",
+      "text": "Product page error for barcode 5449000223555"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#421",
+      "time": "2025-04-04T03:11:10.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/421#issuecomment-2777455004",
+      "text": "I wanted to run a backend locally and connect the frontend to it, but I was informed this functionality isn't supported yet."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T02:30:32.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425#issuecomment-2777416230",
+      "text": "@swastikCommits  you, it does "
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#399",
+      "time": "2025-04-04T01:50:38.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/399#issuecomment-2777361415",
+      "text": "@github-throwaway \ni think after merging also it didnt fixed the UI issue. \n\n![Image](https://github.com/user-attachments/assets/2f3722f2-708b-44bd-82ab-b6d7ea947049)\n\nDoes this mean  should I make a PR, or can we consider this Issue completed?."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T01:47:17.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425#issuecomment-2777358597",
+      "text": "**Issue Found:**\nThe `GreenScore` component crashes when receiving unexpected grade values because it tries to access styles for grades that don't exist in the `GRADE_MAP`.\n\n**Fix Implemented:**\n1. Added safe grade fallback: `grade?.toLowerCase() || 'unknown'`\n2. Added style fallback: `GRADE_MAP[normalizedGrade] ?? GRADE_MAP.unknown`\n\n**Result:**\nNow when a bad grade comes in:\n- It automatically uses the \"unknown\" style (gray background)\n- No more crashes from undefined values\n- Still shows meaningful output instead of breaking\n\n**Before:** Crash on invalid grades  \n**After:** Shows gray \"unknown\" badge for invalid grades\n\n![Image](https://github.com/user-attachments/assets/e2ddc31e-2957-4276-a4d3-b5401f88ddf0)\n\nif this is correct, i can make a PR."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#414",
+      "time": "2025-04-04T01:39:20.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414#issuecomment-2777347516",
+      "text": "![image](https://github.com/user-attachments/assets/2fd7960f-de53-46e7-a686-99e2e17d0945)\r\n\r\n- Modified ImageButton.svelte to show a placeholder SVG when no source image exists\r\n- Maintained rotation button behavior to only appear when an actual image is present\r\n- Improved layout to ensure consistent sizing and positioning of both actual images and placeholders"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T01:01:40.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425",
+      "text": "Product page error for barcode 5449000223555"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#414",
+      "time": "2025-04-03T14:22:59.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414#issuecomment-2775964650",
+      "text": "alright i will add that too.\r\n"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414",
+      "title": "fix: Don't show rotating icon for missing image in product page (fixes #413)",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

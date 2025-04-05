@@ -1,28 +1,183 @@
 {
-  "last_updated": "2025-01-24T01:08:25.000Z",
+  "last_updated": "2025-04-04T06:05:53.000Z",
   "activity": [
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10128",
-      "time": "2025-01-24T01:08:25.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10128#issuecomment-2611332035",
-      "text": "Can I work on this?\n"
+      "title": "openfoodfacts/openfoodfacts-explorer#426",
+      "time": "2025-04-04T06:05:53.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/426#issuecomment-2777638924",
+      "text": "Yup exactly! 💯 \n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9702",
-      "time": "2025-01-04T04:00:23.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9702#issuecomment-2570037915",
-      "text": "Can I work on this issue?\n"
+      "title": "openfoodfacts/openfoodfacts-explorer#426",
+      "time": "2025-04-04T05:46:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/426#issuecomment-2777614725",
+      "text": "In my opinion #347 was concerned about design of landing page and #399 for the search results page, as the PR which got merged left some UX issues which should be fixed here(after maintainers approve the mockup solution)\nFollowed by fixing the landing page, the search results page must be updated(#399 ) "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9546",
-      "time": "2024-12-25T01:37:49.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9546#issuecomment-2561532737",
-      "text": "I would like to work on this issue"
+      "title": "openfoodfacts/openfoodfacts-explorer#426",
+      "time": "2025-04-04T05:36:54.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/426#issuecomment-2777604026",
+      "text": "Sure, I will be providing a mockup of the solution soon.\nAs of #399 it should follow up to sync with the landing page design"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T04:23:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425#issuecomment-2777523001",
+      "text": "@akashshetty1997 I would urge to close this issue as it is already an subtask of #361 \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#419",
+      "time": "2025-04-04T04:10:27.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/419#issuecomment-2777511545",
+      "text": "> [@samidc1992](https://github.com/samidc1992) This should be focused, right?\n> \n> ![Image](https://github.com/user-attachments/assets/91fe8fab-9744-4022-8b23-a47f2d7b1843)\n\nThe href  `#nutrition_card`( didn't focus anywhere).\nFurther as I was exploring IDs, I came upon `#nova` which was the correct container that it must focus as verified by @samidc1992 \nIf you want any other changes, I am open to make changes as per the need."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#421",
+      "time": "2025-04-04T03:41:49.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/421#issuecomment-2777486230",
+      "text": "There is already `VITE_OFF_BASE_URL` in .env file, if you want a similar way to run the PricesApi locally #424 does this for you"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#426",
+      "time": "2025-04-04T02:48:45.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/426#issuecomment-2777433721",
+      "text": "Most probably this is due to #347 "
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#426",
+      "time": "2025-04-04T02:44:21.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/426#issuecomment-2777429632",
+      "text": "@VaiTon @github-throwaway What are your views on this? \nI will proceed after you approve."
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#426",
+      "time": "2025-04-04T02:43:19.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/426",
+      "text": "Inconsistency in products design"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T02:16:19.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425#issuecomment-2777386860",
+      "text": "Yeah @akashshetty1997 this will probably fix this issue, using a fallback for `grade` whenever it is undefined/null.\nAs it becomes undefined, the map will destructure `bgColor` where the issue actually was arised(console error) \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#425",
+      "time": "2025-04-04T01:21:32.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/425#issuecomment-2777329353",
+      "text": "Not only for this specific product, it is happening for most of them.\nhttps://openfoodfacts-explorer.vercel.app/products/3760049790214\nhttps://openfoodfacts-explorer.vercel.app/products/3124480195326\nhttps://openfoodfacts-explorer.vercel.app/products/3124480196248 and many more.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#407",
+      "time": "2025-04-04T00:14:03.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407#issuecomment-2777254014",
+      "text": "The `flex` class was missing from the main container div that holds the tags, which causes the overlap.\r\nIt used `flex-wrap` which is a flex property, but the container wasn't a flex container in the first place itself."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/422",
+      "title": "fix: Nova card not targeting specific panel ID",
+      "stale_for": 0,
+      "labels": [
+        "Product page",
+        "📖 Knowledge panels",
+        "Attributes"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407",
+      "title": "fix: overlapping tags in edit page",
+      "stale_for": 0,
+      "labels": [
+        "✏️ Editing",
+        "✏️ Editing - Tags"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/387",
+      "title": "fix: type errors fixed in a product which fails to fetch",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/608",
+      "title": "chore: added quality checks for nutrition",
+      "stale_for": 3,
+      "labels": [
+        "🧽 Data quality"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/344",
+      "title": "feat: added the new user API with improved login usability",
+      "stale_for": 0,
+      "labels": [
+        "🔐 Auth",
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/305",
+      "title": "feat: implemented real-time Energy Calculation in edit page",
+      "stale_for": 0,
+      "labels": [
+        "✏️ Editing"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/331",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/345"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/306",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/307"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/300",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/303"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/300",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/366"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/297",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/299"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/268",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/275"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/258",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/259"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/253",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/257"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/251",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/252"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/249",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/250"
+    }
+  ]
 }

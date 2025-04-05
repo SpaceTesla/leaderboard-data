@@ -1,0 +1,169 @@
+{
+  "last_updated": "2025-04-03T20:36:46.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices#791",
+      "time": "2025-04-03T20:36:46.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/issues/791#issuecomment-2776863624",
+      "text": "True that the prediction outside the assistant doesn't provide value to the user, but mapping it to already added prices would help start building the \"receipt label name\" database 👀"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-03T15:22:23.000Z",
+      "title": "openfoodfacts/openfoodfacts-python#320",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/320#pullrequestreview-2740309855",
+      "text": "fix: brands taxonomy might use xx language code"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/pull/772",
+      "title": "refactor(Stats): rename price stats per type (product & category)",
+      "stale_for": 12,
+      "labels": [
+        ":bar_chart: Stats",
+        "Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/pull/765",
+      "title": "feat(Products): new utils to calculate the price estimate",
+      "stale_for": 14,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1270",
+      "title": "feat(Theme): change default font-family to Public Sans",
+      "stale_for": 23,
+      "labels": [
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1110",
+      "title": "refactor(Proof image): Stop converting images to WebP. Compress only",
+      "stale_for": 27,
+      "labels": [
+        "📷 Proofs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/pull/576",
+      "title": "feat(GDPR): Add lafourche.fr as source",
+      "stale_for": 131,
+      "labels": [
+        "GDPR imports",
+        "Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/pull/547",
+      "title": "refactor(proofs): improve proof location update",
+      "stale_for": 41,
+      "labels": [
+        "📍 Location"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/987",
+      "title": "feat(Proofs): allow editing proof location",
+      "stale_for": 27,
+      "labels": [
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/732",
+      "title": "tests: add more e2e tests",
+      "stale_for": 27,
+      "labels": [
+        "GitHub Actions"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/720",
+      "title": "test: add ESLint config for i18n",
+      "stale_for": 27,
+      "labels": [
+        "help wanted",
+        "Translations",
+        "javascript",
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/333",
+      "title": "feat: script to filter and generate labels (with translations)",
+      "stale_for": 27,
+      "labels": [
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/141",
+      "title": "feat(stats): store results instead of fetching data each time",
+      "stale_for": 27,
+      "labels": [
+        "help wanted",
+        "🚄 Performance",
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/117",
+      "title": "feat(location detail): change url (osm type & id instead of id)",
+      "stale_for": 27,
+      "labels": [
+        "📍 Locations",
+        "💥 Merge Conflicts"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/691",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1431"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/691",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1433"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/583",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/750"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/583",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1435"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/575",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/578"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/575",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/17"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1045",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1248"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/568",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/609"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/558",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/564"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/974",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1128"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/518",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/519"
+    }
+  ]
+}

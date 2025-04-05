@@ -1,28 +1,84 @@
 {
-  "last_updated": "2025-03-06T08:37:40.000Z",
+  "last_updated": "2025-04-03T23:54:00.000Z",
   "activity": [
     {
-      "type": "issue_opened",
-      "title": "ohcnetwork/care#2896",
-      "time": "2025-03-06T08:37:40.000Z",
-      "link": "https://github.com/ohcnetwork/care/issues/2896",
-      "text": "Adding ordering in exceptions in staff account"
-    },
-    {
-      "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#11069",
-      "time": "2025-03-05T20:19:17.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11069",
-      "text": "Adding ordering in exceptions in staff account"
-    },
-    {
-      "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#11061",
-      "time": "2025-03-05T17:22:08.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11061",
-      "text": "Adding Missing Translation for Hindi Language"
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#397",
+      "time": "2025-04-03T23:54:00.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/397",
+      "text": "feat: add share button on product page",
+      "turnaround_time": 375511
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/433",
+      "title": "bug: fixed some products that were not loading",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/416",
+      "title": "fix: Add a sticky save button in edit mode, visible at all times (part of #340)",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/415",
+      "title": "fix: made changes so that user can't access the edit page without logging in",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/357",
+      "title": "feat: add support for mobile badges",
+      "stale_for": 0,
+      "labels": [
+        "Footer"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/330",
+      "title": "feat: Add new products",
+      "stale_for": 0,
+      "labels": [
+        "Product addition",
+        "💥 Merge Conflicts"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/282",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/293"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/256",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/261"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/247",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/263"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/237",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/289"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/236",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/241"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/230",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/242"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/228",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/248"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/219",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/244"
+    }
+  ]
 }

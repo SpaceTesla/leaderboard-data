@@ -1,0 +1,28 @@
+{
+  "last_updated": "2025-04-03T17:26:58.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1538",
+      "time": "2025-04-03T17:26:58.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1538#issuecomment-2776478395",
+      "text": "Let me know if anything needs adjusting — happy to update!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1538",
+      "time": "2025-04-03T17:26:05.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1538",
+      "text": "docs: clarify Robotoff intro paragraph in README"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1538",
+      "title": "docs: clarify Robotoff intro paragraph in README",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

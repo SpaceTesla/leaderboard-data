@@ -1,0 +1,45 @@
+{
+  "last_updated": "2025-04-03T17:53:18.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6504",
+      "time": "2025-04-03T17:53:18.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6504#issuecomment-2776533790",
+      "text": "In the assentlinks.json, there is an error\r\n\r\n![Screenshot 2025-04-03 232130](https://github.com/user-attachments/assets/55b69277-8d10-48e6-ac45-55e06ac90883)\r\n\r\n\r\nThe package_name should be scanner.openfoodfacts.org."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6504",
+      "time": "2025-04-03T17:27:46.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6504#issuecomment-2776479973",
+      "text": "I checked it, the passwords are getting saved, but the thing is, if a user creates an account in mobile and saves the credentials, then it is saved as scanner.openfoodfacts.org (which is correct) and if through web it is saved under openfoodfacts.org (which is correct)\r\n\r\n![WhatsApp Image 2025-04-03 at 10 52 31 PM](https://github.com/user-attachments/assets/07ffd532-67d1-47dd-aa4d-cd4dd41da6b5)\r\n\r\nSo, the usual pop-up doesn't come due to this. But in the Docs it is written that it will work only after deployed.\r\n\r\n![Screenshot 2025-04-03 225531](https://github.com/user-attachments/assets/2a32c1a6-8c02-49bf-bbab-f0000a9cc4f6)\r\n"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6504",
+      "title": "feat: Credential/Password sharing for android and website",
+      "stale_for": 1,
+      "labels": [
+        "👥 User management",
+        "Android"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6480",
+      "title": "fix: Fixed settings defragmentation issue",
+      "stale_for": 0,
+      "labels": [
+        "⚙️ Settings",
+        "🌐 l10n"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6476",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6477"
+    }
+  ]
+}

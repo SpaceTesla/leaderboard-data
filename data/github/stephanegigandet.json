@@ -1,0 +1,202 @@
+{
+  "last_updated": "2025-04-03T16:39:45.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11739",
+      "time": "2025-04-03T16:39:45.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11739",
+      "text": "feat: import Carrefour images + Nestlé Deutschland product data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11736",
+      "time": "2025-04-03T16:19:42.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11736",
+      "text": "fix: remove comma escaping in data_quality descriptions"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11330",
+      "time": "2025-04-03T15:23:40.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11330#issuecomment-2776163296",
+      "text": "Removed the beauty products from off mongodb database, so that it's easier to see where the new ones are coming from\n\n```\noff> db.products.deleteMany({ product_type: \"beauty\"})\n{ acknowledged: true, deletedCount: 13161 }\n```\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11330",
+      "time": "2025-04-03T14:36:41.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11330#issuecomment-2776008736",
+      "text": "It is slightly growing, so we indeed have an issue somewhere:\n\n```\noff> db.products.count({ product_type: \"beauty\"})\nDeprecationWarning: Collection.count() is deprecated. Use countDocuments or estimatedDocumentCount.\n13161\n```\n"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11742",
+      "title": "docs: OpenAPI spec for new images schema - WIP",
+      "stale_for": 0,
+      "labels": [
+        "📚 Documentation",
+        "API v3",
+        "📚 OpenAPI"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11739",
+      "title": "feat: import Carrefour images + Nestlé Deutschland product data",
+      "stale_for": 0,
+      "labels": [
+        "Data import",
+        "🏭 Producers Platform",
+        "👮 Moderation"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11736",
+      "title": "fix: remove comma escaping in data_quality descriptions",
+      "stale_for": 0,
+      "labels": [
+        "🧬 Taxonomies",
+        "🧽 Data quality",
+        "🧪 tests",
+        ":star: top pull request"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11688",
+      "title": "fix: OBF brands categories, ingredients panels",
+      "stale_for": 1,
+      "labels": [
+        "🧬 Taxonomies",
+        "🧴 Open Beauty Facts",
+        "🧪 tests",
+        "Tags",
+        "config",
+        "🧪 unit tests"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11681",
+      "title": "fix: replace minus with dash to separate product name and brand",
+      "stale_for": 1,
+      "labels": [
+        "API",
+        "🧪 tests",
+        "📖 Knowledge Panels",
+        "Display",
+        "Products",
+        "🧪 unit tests",
+        "🧪 integration tests",
+        "🌐 Translations"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11471",
+      "title": "fix: compute Nutri-Score stats for categories - WIP",
+      "stale_for": 28,
+      "labels": [
+        "🧪 tests",
+        "Food.pm",
+        "Display",
+        "Tags",
+        "🚦 Nutri-Score"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11085",
+      "title": "feat: Open Food Supplement Facts - Hackathon - WIP",
+      "stale_for": 37,
+      "labels": [
+        "🧬 Taxonomies",
+        "Products",
+        "Tags",
+        "Food supplements"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/52",
+      "title": "chore: new ingredients",
+      "stale_for": 364,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6188",
+      "title": "feat: Start of product rules: simple rule format",
+      "stale_for": 8,
+      "labels": [
+        "🎯 P1",
+        "product rules"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11679",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11680"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11610",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11615"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11492",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11495"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11064",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11065"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11064",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11072"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11047",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11055"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/5700",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10904"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10621",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10622"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10616",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10617"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10554",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10556"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10508",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/596"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10313",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10334"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10277",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10171"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9874",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9880"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9798",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9799"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9782",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9788"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9781",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9795"
+    }
+  ]
+}

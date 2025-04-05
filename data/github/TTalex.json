@@ -1,0 +1,69 @@
+{
+  "last_updated": "2025-04-03T20:32:43.000Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/open-prices#792",
+      "time": "2025-04-03T20:32:43.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/issues/792",
+      "text": "Testing Gen AI results over time"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/open-prices#791",
+      "time": "2025-04-03T20:17:33.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/issues/791",
+      "text": "Avoid sending receipts to gemini, unless ReceiptAssistant is used"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1494",
+      "title": "refactor(Crops): improve perfomances",
+      "stale_for": 0,
+      "labels": [
+        "🚄 Performance"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/pull/675",
+      "title": "feat(Price Stats): Stats grouped by",
+      "stale_for": 53,
+      "labels": [
+        ":bar_chart: Stats"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1009",
+      "title": "feat(Product Map): Add prices count and average to map",
+      "stale_for": 27,
+      "labels": [
+        "🗺️ Maps",
+        "🥫 Product page",
+        "💥 Merge Conflicts"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/673",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/935"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/673",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/676"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/934",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/935"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/934",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1284"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/841",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/844"
+    }
+  ]
+}

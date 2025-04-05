@@ -1,0 +1,180 @@
+{
+  "last_updated": "2025-04-03T16:26:38.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1536",
+      "time": "2025-04-03T16:26:38.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1536",
+      "text": "fix: upgrade openfoodfacts sdk to fix bug with brands taxonomies",
+      "turnaround_time": 1208
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1536",
+      "time": "2025-04-03T16:06:18.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1536",
+      "text": "fix: upgrade openfoodfacts sdk to fix bug with brands taxonomies"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-python#318",
+      "time": "2025-04-03T15:33:16.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/318#issuecomment-2776200538",
+      "text": "@meghana-0211 it's great that you proposed this PR.\r\n\r\nSorry I don't have the time to look at it right away. Don't hesitate to ping it on #python channel in slack."
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-python#319",
+      "time": "2025-04-03T15:30:53.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/319",
+      "text": "[URGENT] New brands taxonomies is breaking taxonomy.py module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#320",
+      "time": "2025-04-03T15:30:52.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/320",
+      "text": "fix: brands taxonomy might use xx language code",
+      "turnaround_time": 1302
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#320",
+      "time": "2025-04-03T15:09:00.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/320",
+      "text": "fix: brands taxonomy might use xx language code"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-python#319",
+      "time": "2025-04-03T14:45:11.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/319",
+      "text": "[URGENT] New brands taxonomies is breaking taxonomy.py module"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/465",
+      "title": "docs: more hetzner doc",
+      "stale_for": 27,
+      "labels": [
+        "🪦 postmortems"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ops/pull/9",
+      "title": "feat: Hetzner install - step 1",
+      "stale_for": 5,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/459",
+      "title": "chore: firewall rules for free DC",
+      "stale_for": 43,
+      "labels": [
+        "off2",
+        "🪦 postmortems"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/450",
+      "title": "docs: renaming o*f-new instances",
+      "stale_for": 86,
+      "labels": [
+        "🪦 postmortems"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ops/pull/3",
+      "title": "feat: creating reports on ZFS datasets",
+      "stale_for": 105,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/447",
+      "title": "docs: how to deploy new service",
+      "stale_for": 109,
+      "labels": [
+        "off2",
+        "🪦 postmortems"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/nutripatrol-frontend/pull/140",
+      "title": "feat: make links visible on home-page and texts",
+      "stale_for": 112,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/434",
+      "title": "docs: install of keycloak CT",
+      "stale_for": 148,
+      "labels": [
+        "🪦 postmortems",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/399",
+      "title": "feat: two apache for off",
+      "stale_for": 84,
+      "labels": [
+        "🪦 postmortems",
+        "🪶 Apache",
+        "Proxmox"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/312",
+      "title": "feat: enable adding severity to alert email",
+      "stale_for": 169,
+      "labels": [
+        "📨 email"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9295",
+      "title": "ci: CRON for packager codes - WIP",
+      "stale_for": 17,
+      "labels": [
+        "📍🏭 Packager codes",
+        "🎯 P1",
+        "dependencies",
+        "🕰️ CRON",
+        "GitHub Actions",
+        ":star: top pull request",
+        "Portugal",
+        "Poland",
+        "Croatia",
+        "Spain"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/319",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/320"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/319",
+      "pr_link": "https://github.com/openfoodfacts/robotoff/pull/1536"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11241",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11387"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/541",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/554"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/search-a-licious/issues/237",
+      "pr_link": "https://github.com/openfoodfacts/search-a-licious/pull/271"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/511",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/512"
+    }
+  ]
+}

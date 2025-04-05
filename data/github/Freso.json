@@ -1,0 +1,54 @@
+{
+  "last_updated": "2025-04-04T01:49:55.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11729",
+      "time": "2025-04-04T01:49:55.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11729#issuecomment-2777360761",
+      "text": "I can’t tell the difference between the got output and the expected output: https://github.com/openfoodfacts/openfoodfacts-server/actions/runs/14255938774/job/39958863328?pr=11729#step:7:945"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11729",
+      "title": "taxonomy: Various updates/additions",
+      "stale_for": 0,
+      "labels": [
+        "🧬 Taxonomies",
+        "categories",
+        "🧽 Data quality",
+        "🧪 tests",
+        "💥 Merge Conflicts",
+        "🥗🔍 Ingredients analysis",
+        "Ingredients processing"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11726",
+      "title": "taxonomy: Add sucrose cocoate to OBF ingredients",
+      "stale_for": 0,
+      "labels": [
+        "🧬 Taxonomies",
+        "🧴 Open Beauty Facts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11669",
+      "title": "taxonomy: Tighten up vegan requirements",
+      "stale_for": 2,
+      "labels": [
+        "🧬 Taxonomies",
+        "🧪 tests",
+        "💥 Merge Conflicts",
+        "🥗🔍 Ingredients analysis"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11707",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11687"
+    }
+  ]
+}

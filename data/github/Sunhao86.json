@@ -1,0 +1,39 @@
+{
+  "last_updated": "2025-04-04T02:25:13.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#336",
+      "time": "2025-04-04T02:25:13.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/336#issuecomment-2777403522",
+      "text": "hi @VaiTon ,I've successfully rebased the calculator-storage branch onto the latest main.\r\n\r\nNo worries at all about the changes — I'm really glad to see the project progressing and growing in other areas too. Working together and improving together is exactly what makes this project so great! "
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/369",
+      "title": "feat: Add product comparison feature",
+      "stale_for": 0,
+      "labels": [
+        "Compare mode"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/336",
+      "title": "feat: add a global nutrient calculator that calculates nutrition for a list of products",
+      "stale_for": 0,
+      "labels": [
+        "💥 Merge Conflicts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6453",
+      "title": "fix: Add help section to folksonomy page",
+      "stale_for": 3,
+      "labels": [
+        "folksonomy engine"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

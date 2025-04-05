@@ -1,14 +1,52 @@
 {
-  "last_updated": "2024-11-27T14:10:36.000Z",
+  "last_updated": "2025-04-03T23:31:25.000Z",
   "activity": [
     {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#347",
+      "time": "2025-04-03T23:31:25.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/347",
+      "text": "fix: Fixed design issues in product cards on homepage",
+      "turnaround_time": 970055
+    },
+    {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9058",
-      "time": "2024-11-27T14:10:36.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9058#issuecomment-2503978266",
-      "text": "@nihal467 @Jacobjeevan If this issue is not yet resolved, can i work on it ?"
+      "title": "openfoodfacts/openfoodfacts-explorer#347",
+      "time": "2025-04-03T17:50:06.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/347#issuecomment-2776526782",
+      "text": "@VaiTon Can you please confirm if any other modifications needs to be done in this PR?"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/429",
+      "title": "fix: search page issue of cards showing in single column fixed",
+      "stale_for": 0,
+      "labels": [
+        "Lists of products"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/370",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/372"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/58",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/53",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/issues/603",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/604"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/issues/601",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/602"
+    }
+  ]
 }
